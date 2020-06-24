@@ -15,11 +15,9 @@ Take 30 minutes to discuss the following questions with your table group.
 ## Rails Request and Response cycle
 
 1. What are the steps that Rails will take to implement the use cases below? List the verb/path, controller/action and associated SQL.
-    - Display a list of resources
-   
-    - Delete a resource
-     
-    - Create a new resource
 
+    - Display a list of resources
+    - Delete a resource
+    - Create a new resource
     - Display one resource
 
